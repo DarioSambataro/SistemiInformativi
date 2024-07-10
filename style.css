@@ -1,0 +1,77 @@
+nav {
+    opacity: 0.9;
+}
+
+.carousel-item {
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+
+.carousel .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+
+}
+
+.modify-letter-spacing {
+    letter-spacing: 5px;
+    margin-top: 50px;
+}
+
+.gray {
+    color: gray;
+}
+
+.italic-em {
+    font-style: italic;
+    margin-bottom: 50px;
+}
+
+
+
+.text-align-center {
+    text-align: center;
+}
+
+.margin-fifty {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.img-fluid {
+    border-radius: 100%;
+}
+
+.entire-viewport {
+    height: 100%;
+    width: 100%;
+}
+
+.modify-padding {
+    padding: 20px;
+    border: 1px solid gray;
+}
+
+.ticket-left {
+   margin-left: 1150px;
+   background-color: gray;
+   border-radius: 100%; /*cerchio*/ /*50% della grandezza del padre*/
+   padding: 5px;
+}
+
+.btn-dark {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    height: 100px;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: auto;
+}
